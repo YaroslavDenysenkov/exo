@@ -5,5 +5,6 @@
 - Git
 - Meta Bind
 - Periodic Notes
+- Tag Wrangler
 - Tasks
 - Tracker

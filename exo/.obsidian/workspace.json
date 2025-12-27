@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Facilitate Meetings Better?.md",
+                "file": "2025-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How To Facilitate Meetings Better?"
+              "title": "2025-12-27"
+            }
+          },
+          {
+            "id": "38bf8e5aa1507688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best Practices for Obsidian Tags"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Facilitate Meetings Better?.md",
+                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How To Facilitate Meetings Better?"
+              "title": "Backlinks for Best Practices for Obsidian Tags"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Facilitate Meetings Better?.md",
+                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How To Facilitate Meetings Better?"
+              "title": "Outgoing links from Best Practices for Obsidian Tags"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Facilitate Meetings Better?.md",
+                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How To Facilitate Meetings Better?"
+              "title": "Outline of Best Practices for Obsidian Tags"
             }
           },
           {
@@ -220,11 +234,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2435ce3e0b0a9c18",
+  "active": "38bf8e5aa1507688",
   "lastOpenFiles": [
     "2025-12-27.md",
-    "How To Facilitate Meetings Better?.md",
+    "00 Inbox/owl.md",
     "Obsidian Community Plugins.md",
+    "00 Inbox/Best Practices for Obsidian Tags.md",
+    "How To Facilitate Meetings Better?.md",
+    "Templates/50 Yearly Note Template.md",
+    "Templates/30 Monthly Note Template.md",
+    "Templates/40 Quarterly Note Template.md",
+    "Templates/20 Weekly Note Template.md",
+    "Templates/10 Daily Note Template.md",
+    "Templates",
+    "99 Attachments",
+    "90 Archives",
+    "40 Knowledge Base",
+    "30 Areas",
+    "20 Active Projects",
+    "10 Journal/10 Daily/2025-12-27.md",
+    "10 Journal/50 Yearly",
+    "10 Journal/40 Quarterly",
+    "10 Journal/30 Monthly",
+    "10 Journal/20 Weekly",
     "Welcome.md"
   ]
 }
