@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Community Plugins.md",
+                "file": "2025-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Community Plugins"
+              "title": "2025-12-27"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Community Plugins.md",
+                "file": "2025-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Community Plugins"
+              "title": "Backlinks for 2025-12-27"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Community Plugins.md",
+                "file": "2025-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Community Plugins"
+              "title": "Outgoing links from 2025-12-27"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Community Plugins.md",
+                "file": "2025-12-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Community Plugins"
+              "title": "Outline of 2025-12-27"
             }
           },
           {
@@ -207,7 +207,8 @@
   },
   "active": "09db560c98799555",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Obsidian Community Plugins.md"
+    "Obsidian Community Plugins.md",
+    "2025-12-27.md",
+    "Welcome.md"
   ]
 }
