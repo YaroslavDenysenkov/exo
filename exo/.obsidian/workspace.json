@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Best Practices for Obsidian Tags"
             }
+          },
+          {
+            "id": "a42c13ea8e9a3931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Community Plugins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Community Plugins"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
+                "file": "Obsidian Community Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Best Practices for Obsidian Tags"
+              "title": "Backlinks for Obsidian Community Plugins"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
+                "file": "Obsidian Community Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Best Practices for Obsidian Tags"
+              "title": "Outgoing links from Obsidian Community Plugins"
             }
           },
           {
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
+                "file": "Obsidian Community Plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Best Practices for Obsidian Tags"
+              "title": "Outline of Obsidian Community Plugins"
             }
           },
           {
@@ -226,7 +240,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -234,12 +247,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "38bf8e5aa1507688",
+  "active": "a42c13ea8e9a3931",
   "lastOpenFiles": [
+    "00 Inbox/Jenkins.md",
+    "00 Inbox/Best Practices for Obsidian Tags.md",
     "2025-12-27.md",
     "00 Inbox/owl.md",
     "Obsidian Community Plugins.md",
-    "00 Inbox/Best Practices for Obsidian Tags.md",
     "How To Facilitate Meetings Better?.md",
     "Templates/50 Yearly Note Template.md",
     "Templates/30 Monthly Note Template.md",
