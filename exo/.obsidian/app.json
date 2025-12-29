@@ -1,8 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "99 Attachments",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "/",
+  "newFileLocation": "root",
+  "newFileFolderPath": "/",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "trashOption": "local"

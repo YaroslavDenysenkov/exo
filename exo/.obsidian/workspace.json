@@ -39,46 +39,14 @@
             "id": "38bf8e5aa1507688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Best Practices for Obsidian Tags"
-            }
-          },
-          {
-            "id": "a42c13ea8e9a3931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Practices for Obsidian Tags"
-            }
-          },
-          {
-            "id": "c694dd250485bacd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,44 +229,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c694dd250485bacd",
+  "active": "38bf8e5aa1507688",
   "lastOpenFiles": [
-    "Book Reviews/Mastering Git ~ Book Review.md",
     "00 Inbox/Untitled 1.md",
-    "Book Reviews/Version Control with Git ~ Book Review.md",
-    "00 Inbox/Untitled.md",
-    "The Hidden Corners of Linux.md",
-    "The Fastest Way CEOs Can Spot Good (or Bad) Managers.md",
-    "The Case Against Golden Paths.md",
-    "Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
-    "Shadow IT.md",
-    "Platform Engineering for Architects - Crafting modern platforms as a product.md",
-    "Platform Engineering - A Guide for Technical, Product, and People Leaders.md",
-    "Platform Engineering.md",
-    "Perforce.md",
-    "Paved Road.md",
-    "Mermaid.md",
-    "Linux.md",
-    "Jujutsu.md",
-    "Internal Developer Platform.md",
-    "Golden Path vs. Golden Cage in Platform Engineering -  Why Flexibility Matters.md",
-    "Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
-    "Golden Path in Dune.md",
-    "Golden Path.md",
-    "GitHub Projects.md",
-    "GitHub.md",
-    "git.md",
-    "Examples of GitHub Projects.md",
-    "Book Reviews",
-    "99 Attachments/Pasted image 20251229114546.png",
-    "Templates",
-    "99 Attachments",
-    "90 Archives",
-    "40 Knowledge Base",
-    "30 Areas",
-    "20 Active Projects",
-    "10 Journal/50 Yearly",
-    "10 Journal/40 Quarterly",
-    "10 Journal/30 Monthly"
+    "_/The Hidden Corners of Linux.md",
+    "_/The Fastest Way CEOs Can Spot Good (or Bad) Managers.md",
+    "_/The Case Against Golden Paths.md",
+    "_/Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
+    "_/Shadow IT.md",
+    "_/Platform Engineering for Architects - Crafting modern platforms as a product.md",
+    "_/Platform Engineering - A Guide for Technical, Product, and People Leaders.md",
+    "_/Platform Engineering.md",
+    "_/Perforce.md",
+    "_/Paved Road.md",
+    "_/Obsidian Community Plugins.md",
+    "_/Mermaid.md",
+    "_/Linux.md",
+    "_/Jujutsu.md",
+    "_/Internal Developer Platform.md",
+    "_/How To Facilitate Meetings Better?.md",
+    "_/Golden Path vs. Golden Cage in Platform Engineering -  Why Flexibility Matters.md",
+    "_/Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
+    "_/Golden Path in Dune.md",
+    "_/Golden Path.md",
+    "_/GitHub Projects.md",
+    "_/GitHub.md",
+    "_/git.md",
+    "_/Examples of GitHub Projects.md",
+    "_/2025-12-27.md",
+    "_/Templates",
+    "_/Book Reviews",
+    "_/99 Attachments/Pasted image 20251229114546.png",
+    "_/99 Attachments",
+    "_/90 Archives",
+    "_/40 Knowledge Base",
+    "_/30 Areas",
+    "_/20 Active Projects",
+    "_/10 Journal/50 Yearly",
+    "_/10 Journal/40 Quarterly",
+    "_/10 Journal/30 Monthly",
+    "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
