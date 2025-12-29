@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.tags.contains("test")
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.name
+        direction: ASC

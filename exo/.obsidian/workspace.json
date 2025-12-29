@@ -39,14 +39,32 @@
             "id": "38bf8e5aa1507688",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Codespace.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GitHub Codespace"
+            }
+          },
+          {
+            "id": "b5038705a596602e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Codespace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub Codespace"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,8 +247,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "38bf8e5aa1507688",
+  "active": "b5038705a596602e",
   "lastOpenFiles": [
+    "Untitled.base",
+    "GitHub Codespace.md",
+    "Untitled.md",
+    "Dockerfile.md",
+    "Pasted image 20251229132703.png",
     "00 Inbox/Untitled 1.md",
     "_/The Hidden Corners of Linux.md",
     "_/The Fastest Way CEOs Can Spot Good (or Bad) Managers.md",
@@ -253,10 +276,6 @@
     "_/Golden Path in Dune.md",
     "_/Golden Path.md",
     "_/GitHub Projects.md",
-    "_/GitHub.md",
-    "_/git.md",
-    "_/Examples of GitHub Projects.md",
-    "_/2025-12-27.md",
     "_/Templates",
     "_/Book Reviews",
     "_/99 Attachments/Pasted image 20251229114546.png",
@@ -267,7 +286,6 @@
     "_/20 Active Projects",
     "_/10 Journal/50 Yearly",
     "_/10 Journal/40 Quarterly",
-    "_/10 Journal/30 Monthly",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
