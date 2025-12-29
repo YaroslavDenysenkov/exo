@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Community Plugins.md",
+                "file": "00 Inbox/Best Practices for Obsidian Tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Community Plugins"
+              "title": "Best Practices for Obsidian Tags"
+            }
+          },
+          {
+            "id": "c694dd250485bacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,30 +261,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a42c13ea8e9a3931",
+  "active": "c694dd250485bacd",
   "lastOpenFiles": [
-    "00 Inbox/Jenkins.md",
+    "The Hidden Corners of Linux.md",
+    "The Fastest Way CEOs Can Spot Good (or Bad) Managers.md",
+    "The Case Against Golden Paths.md",
+    "Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
+    "Shadow IT.md",
+    "Platform Engineering for Architects - Crafting modern platforms as a product.md",
+    "Platform Engineering - A Guide for Technical, Product, and People Leaders.md",
+    "Platform Engineering.md",
+    "Perforce.md",
+    "Paved Road.md",
+    "Mermaid.md",
+    "Linux.md",
+    "Jujutsu.md",
+    "Internal Developer Platform.md",
+    "Golden Path vs. Golden Cage in Platform Engineering -  Why Flexibility Matters.md",
+    "Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
+    "Golden Path in Dune.md",
+    "Golden Path.md",
+    "GitHub Projects.md",
+    "GitHub.md",
+    "git.md",
+    "Examples of GitHub Projects.md",
+    "7 Common IDP Implementation Pitfalls.md",
+    "Book Reviews/Version Control with Git ~ Book Review.md",
+    "Book Reviews/Mastering Git ~ Book Review.md",
+    "Book Reviews",
+    "99 Attachments/Pasted image 20251229114546.png",
     "00 Inbox/Best Practices for Obsidian Tags.md",
-    "2025-12-27.md",
-    "00 Inbox/owl.md",
-    "Obsidian Community Plugins.md",
-    "How To Facilitate Meetings Better?.md",
-    "Templates/50 Yearly Note Template.md",
-    "Templates/30 Monthly Note Template.md",
-    "Templates/40 Quarterly Note Template.md",
-    "Templates/20 Weekly Note Template.md",
-    "Templates/10 Daily Note Template.md",
     "Templates",
     "99 Attachments",
     "90 Archives",
     "40 Knowledge Base",
     "30 Areas",
     "20 Active Projects",
-    "10 Journal/10 Daily/2025-12-27.md",
     "10 Journal/50 Yearly",
     "10 Journal/40 Quarterly",
-    "10 Journal/30 Monthly",
-    "10 Journal/20 Weekly",
-    "Welcome.md"
+    "10 Journal/30 Monthly"
   ]
 }
