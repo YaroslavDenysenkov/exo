@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Codespace.md",
+                "file": "_/Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Codespace"
+              "title": "Golden Path or Golden Cage? When Platform Abstractions Go Too Far"
             }
           }
         ],
@@ -249,11 +249,19 @@
   },
   "active": "b5038705a596602e",
   "lastOpenFiles": [
+    "_/Paved Road.md",
+    "_/Perforce.md",
+    "Untitled.canvas",
+    "Harman Colleagues/Stefan Eggers.md",
+    "Harman Colleagues",
+    "_/GitHub.md",
+    "_/Jujutsu.md",
     "Untitled.base",
-    "GitHub Codespace.md",
     "Untitled.md",
-    "Dockerfile.md",
+    "_/git.md",
+    "GitHub Codespace.md",
     "Pasted image 20251229132703.png",
+    "Dockerfile.md",
     "00 Inbox/Untitled 1.md",
     "_/The Hidden Corners of Linux.md",
     "_/The Fastest Way CEOs Can Spot Good (or Bad) Managers.md",
@@ -263,19 +271,13 @@
     "_/Platform Engineering for Architects - Crafting modern platforms as a product.md",
     "_/Platform Engineering - A Guide for Technical, Product, and People Leaders.md",
     "_/Platform Engineering.md",
-    "_/Perforce.md",
-    "_/Paved Road.md",
     "_/Obsidian Community Plugins.md",
     "_/Mermaid.md",
     "_/Linux.md",
-    "_/Jujutsu.md",
     "_/Internal Developer Platform.md",
     "_/How To Facilitate Meetings Better?.md",
     "_/Golden Path vs. Golden Cage in Platform Engineering -  Why Flexibility Matters.md",
     "_/Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
-    "_/Golden Path in Dune.md",
-    "_/Golden Path.md",
-    "_/GitHub Projects.md",
     "_/Templates",
     "_/Book Reviews",
     "_/99 Attachments/Pasted image 20251229114546.png",
@@ -285,7 +287,6 @@
     "_/30 Areas",
     "_/20 Active Projects",
     "_/10 Journal/50 Yearly",
-    "_/10 Journal/40 Quarterly",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
