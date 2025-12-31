@@ -7,7 +7,7 @@
 		{"id":"7751224eee921579","type":"file","file":"_/Jujutsu.md","x":-268,"y":-708,"width":278,"height":188,"color":"#e41111"},
 		{"id":"3ae0fa4fda250f87","type":"file","file":"_/GitHub.md","x":-892,"y":-155,"width":400,"height":400},
 		{"id":"5d544a4302d4e491","type":"link","url":"https://docs.docker.com/reference/dockerfile#overview","x":355,"y":-766,"width":345,"height":326,"color":"5"},
-		{"id":"aad98d3f98f38bd5","x":-706,"y":-815,"width":213,"height":98,"type":"file","file":"Harman Colleagues/Stefan Eggers.md"}
+		{"id":"aad98d3f98f38bd5","type":"file","file":"Harman Colleagues/Stefan Eggers.md","x":-706,"y":-815,"width":213,"height":98}
 	],
 	"edges":[
 		{"id":"98da1f018da8e7fb","fromNode":"a1fb0ce30ad3c582","fromSide":"top","toNode":"fa9abbfb85fe278d","toSide":"bottom"},
