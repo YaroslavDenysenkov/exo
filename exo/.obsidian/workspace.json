@@ -95,12 +95,14 @@
             "id": "106fc237f617be3e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251229132703.png"
+                "file": "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251229132703"
+              "icon": "lucide-file",
+              "title": "26-01-01 Daily Notes"
             }
           }
         ],
@@ -290,6 +292,7 @@
   },
   "active": "106fc237f617be3e",
   "lastOpenFiles": [
+    "Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
     "00 Inbox/Meetings How-To.md",
     "00 Inbox/Untitled.md",
@@ -327,7 +330,6 @@
     "_/Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
     "00 Inbox",
     "Harman Colleagues",
-    "Pasted image 20251229132703.png",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
