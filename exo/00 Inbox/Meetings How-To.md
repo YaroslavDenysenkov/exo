@@ -1,0 +1,1 @@
+- [ ] tracking of meetings and their follow ups in Obsidian
