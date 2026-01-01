@@ -7,5 +7,6 @@
 - Periodic Notes
 - Tag Wrangler
 - Tasks
+- Templater
 - Tracker
 
