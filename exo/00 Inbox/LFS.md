@@ -1,0 +1,12 @@
+
+```cardlink
+url: https://git-lfs.com/
+title: "Git Large File Storage"
+description: "Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise."
+host: git-lfs.com
+favicon: https://git-lfs.com/favicon.png
+image: https://git-lfs.com/images/facebook-promo.png
+```
+
+- [ ] Git LFS oids in depth
+

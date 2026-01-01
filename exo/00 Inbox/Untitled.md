@@ -1,4 +1,4 @@
-![[../99 Attachments/Pasted image 20251229114546.png]]
+![[../../00 Inbox/Pasted image 20251229114546.png]]
 
 ```cardlink
 url: https://medium.com/@ashwinsri04

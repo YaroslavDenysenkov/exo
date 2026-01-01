@@ -1,8 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "/",
-  "newFileLocation": "root",
-  "newFileFolderPath": "/",
+  "attachmentFolderPath": "80 Back Office/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "trashOption": "local"
