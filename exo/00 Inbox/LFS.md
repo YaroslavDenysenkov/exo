@@ -8,5 +8,5 @@ favicon: https://git-lfs.com/favicon.png
 image: https://git-lfs.com/images/facebook-promo.png
 ```
 
-- [ ] Git LFS oids in depth
+- [ ] Try uploading a broken OID
 
