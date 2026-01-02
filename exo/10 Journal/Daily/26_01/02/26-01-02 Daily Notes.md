@@ -3,7 +3,7 @@
 - [[10 Journal/Daily/26_01/02/26-01-02 Daily Learn|Daily Learn]]
 - [[10 Journal/Daily/26_01/02/26-01-02 Daily Me|Daily Me]]
 
-
+- [ ] need the list or something for core skils like git, docker, with extensions like k8, etc
 
 ## Tasks
 ### Overdue
