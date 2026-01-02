@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
+                "file": "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-01-01 Daily Notes"
+              "title": "26-01-02 Daily Notes"
             }
           }
         ],
@@ -292,11 +292,16 @@
   },
   "active": "106fc237f617be3e",
   "lastOpenFiles": [
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Learn.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
+    "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
+    "10 Journal/Daily/26_01/02",
     "Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
     "00 Inbox/Meetings How-To.md",
     "00 Inbox/Untitled.md",
-    "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
     "00 Inbox/00 Inbox.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Me.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Learn.md",
@@ -325,11 +330,7 @@
     "_/Perforce.md",
     "_/Paved Road.md",
     "Untitled.canvas",
-    "_/Examples of GitHub Projects.md",
-    "_/Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
-    "_/Golden Path or Golden Cage? When Platform Abstractions Go Too Far.md",
     "00 Inbox",
-    "Harman Colleagues",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
