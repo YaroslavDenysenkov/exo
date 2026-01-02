@@ -5,6 +5,19 @@
 
 - [ ] need the list or something for core skils like git, docker, with extensions like k8, etc
 
+- [ ] consider my custom docker with everything I need installed, also a good docker practice
+- [ ] Try Visidata
+
+- [ ] try Termgraph
+
+- [ ] GitHub app for Microsoft Teams
+
+- [ ] Consider Keep check list to Obsidian Inbox task list
+
+- [ ] Document ![[]]
+
+![[26-01-02 Daily Fit]]
+
 ## Tasks
 ### Overdue
 ```tasks

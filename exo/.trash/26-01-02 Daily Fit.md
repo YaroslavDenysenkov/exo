@@ -1,6 +1,6 @@
 ---
 dm_pills:
-df_hm_pt_pushup:
+df_hm_pt_pushup: 12
 df_hm_pt_captain:
 df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest:

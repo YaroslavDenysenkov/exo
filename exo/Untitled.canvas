@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"a1fb0ce30ad3c582","type":"file","file":"_/The Hidden Corners of Linux.md","x":-240,"y":-80,"width":420,"height":400},
+		{"id":"a1fb0ce30ad3c582","type":"file","file":"00 Inbox/The Hidden Corners of Linux.md","x":-240,"y":-80,"width":420,"height":400},
 		{"id":"742eb035878d3158","type":"file","file":"Pasted image 20251229132703.png","x":340,"y":-340,"width":400,"height":286,"color":"3"},
 		{"id":"fa9abbfb85fe278d","type":"text","text":"test","x":-240,"y":-340,"width":250,"height":60,"color":"2"},
-		{"id":"640bbf0b7680ca64","type":"file","file":"_/git.md","x":-900,"y":-597,"width":300,"height":217,"color":"4"},
-		{"id":"7751224eee921579","type":"file","file":"_/Jujutsu.md","x":-268,"y":-708,"width":278,"height":188,"color":"#e41111"},
-		{"id":"3ae0fa4fda250f87","type":"file","file":"_/GitHub.md","x":-892,"y":-155,"width":400,"height":400},
+		{"id":"640bbf0b7680ca64","type":"file","file":"00 Inbox/git.md","x":-900,"y":-597,"width":300,"height":217,"color":"4"},
+		{"id":"7751224eee921579","type":"file","file":"00 Inbox/Jujutsu.md","x":-268,"y":-708,"width":278,"height":188,"color":"#e41111"},
+		{"id":"3ae0fa4fda250f87","type":"file","file":"00 Inbox/GitHub.md","x":-892,"y":-155,"width":400,"height":400},
 		{"id":"5d544a4302d4e491","type":"link","url":"https://docs.docker.com/reference/dockerfile#overview","x":355,"y":-766,"width":345,"height":326,"color":"5"},
 		{"id":"aad98d3f98f38bd5","type":"file","file":"Harman Colleagues/Stefan Eggers.md","x":-706,"y":-815,"width":213,"height":98},
 		{"id":"12dba69d0ed5f2c1","x":-315,"y":-1680,"width":400,"height":400,"type":"link","url":"https://medium.com/@the_atomic_architect/kubernetes-tax-not-a-platform-removed-it-got-faster-985dfb8df065"}
