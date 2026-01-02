@@ -1,6 +1,7 @@
 
 - Auto Card Link
 - Calendar
+- DataView
 - Editing Toolbar
 - Git
 - Meta Bind

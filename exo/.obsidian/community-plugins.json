@@ -8,5 +8,6 @@
   "obsidian-tracker",
   "obsidian-tasks-plugin",
   "tag-wrangler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]
