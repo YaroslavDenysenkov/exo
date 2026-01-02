@@ -39,14 +39,17 @@
             "id": "23a8f9c603f85d8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 Inbox/MAN.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "MAN"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -185,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/MAN.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MAN"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -236,9 +239,13 @@
   },
   "active": "23a8f9c603f85d8e",
   "lastOpenFiles": [
+    "00 Inbox/git.md",
+    "Untitled.canvas",
+    "00 Inbox/LFS.md",
+    "00 Inbox/SAFe.md",
+    "00 Inbox/MAN.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
     "00 Inbox/All Properties Dashboard.md",
-    "00 Inbox/MAN.md",
     "90 Attachements/Pasted image 20260102123317.png",
     "00 Inbox/Obsidian Community Plugins.md",
     "90 Attachements/Pasted image 20260102121540.png",
@@ -254,7 +261,6 @@
     "30 Areas",
     "80 Back Office/Attachments",
     "00 Inbox/Tasks Dashboard.md",
-    "00 Inbox/SAFe.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
     "80 Back Office/Templates/Daily Dashboard Template.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
@@ -274,8 +280,6 @@
     "10 Journal/Daily/26_01/01/26-01-01 Daily Fit.md",
     "10 Journal/Daily/26_01/01",
     "10 Journal/Daily/26_01",
-    "80 Back Office/Templates/Daily Fit Template.md",
-    "<% tp.file.path(true).split(\"/\").slice(0,-1).join(\"/\") %>/<% tp.date.now(\"YY-MM-DD\") %> Daily Fit.md",
     "<% tp.file.path(true).split(\"/\").slice(0,-1).join(\"/\") %>",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
