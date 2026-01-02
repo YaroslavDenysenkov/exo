@@ -40,3 +40,14 @@ done after in 7 days
 sort by done reverse
 
 ```
+
+```tasks
+
+```
+
+```dataview
+TASK
+WHERE !completed
+GROUP BY groups
+```
+
