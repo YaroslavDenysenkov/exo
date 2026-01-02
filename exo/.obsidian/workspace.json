@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 Back Office/Templates/Daily Notes Template.md",
+                "file": "SAFe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "SAFe"
             }
           }
         ],
@@ -286,12 +286,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "106fc237f617be3e",
   "lastOpenFiles": [
+    "80 Back Office/Templates/Daily Notes Template.md",
     "80 Back Office/Templates/Daily Learn Template.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
@@ -317,7 +318,6 @@
     "<% tp.file.path(true).split(\"",
     "00 Inbox/LFS.md",
     "80 Back Office/Templates/Daily Me Template.md",
-    "80 Back Office/Templates/Daily Notes Template.md",
     "80 Back Office/Templates",
     "00 Inbox/Best Practices for Obsidian Tags.md",
     "00 Inbox/Jenkins.md",
