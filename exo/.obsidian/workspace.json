@@ -81,18 +81,191 @@
             "id": "bfcda00623fdc2d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 Inbox/Task Dashboard.md",
-                "mode": "source",
-                "source": true
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Task Dashboard"
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "c386199b3d1248f2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "1d1bc82e321200fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 223.20000000000002,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "bb5c0670993817f4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 68.5,
+                  "y": -73,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "118b313439429941",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 68.5,
+                  "y": -220,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "2d958948b69c5f25",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 183,
+                  "y": -764.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "6df8c5abb0088a57",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 16,
+                  "y": -640.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "44df9f7ac0b50f22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": -540,
+                  "zoom": -0.28647813003535416
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "d7b29a8d5d5ac211",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": -540,
+                  "zoom": -0.28647813003535416
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "fb77138dc372fb58",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": -676.1139711664482,
+                  "zoom": -0.28647813003535416
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "6f6a4280e16cda64",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 320,
+                  "y": -786.5206571830848,
+                  "zoom": -0.8
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -227,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Task Dashboard.md",
+                "file": "Uni Map Canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Dashboard"
+              "title": "Outline of Uni Map Canvas"
             }
           },
           {
@@ -276,8 +449,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bfcda00623fdc2d8",
+  "active": "6f6a4280e16cda64",
   "lastOpenFiles": [
+    "00 Inbox/Untitled.canvas",
+    "00 Inbox/Untitled.base",
+    "00 Inbox/Untitled.md",
+    "00 Inbox/Zig Programming Language.md",
+    "Uni Map Canvas.canvas",
+    "00 Inbox/C++ Programming Language.md",
+    "00 Inbox/Java Programming Language.md",
+    "00 Inbox/Lua Programming Language.md",
+    "00 Inbox/Perl Programming Language.md",
+    "00 Inbox/Python Programming Language.md",
+    "00 Inbox/Kotlin Programming Language.md",
+    "00 Inbox/Rust Programming Language.md",
+    "00 Inbox/Technology Radar.md",
+    "00 Inbox/Task Dashboard.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
     "00 Inbox/Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Fit.md",
@@ -286,35 +473,20 @@
     "00 Inbox/p4 clone.md",
     "10 Journal/Daily/26_01/03",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-    "00 Inbox/Task Dashboard.md",
     "00 Inbox/Termgraph.md",
     "00 Inbox/All Properties Dashboard.md",
     "00 Inbox/Visidata.md",
     "00 Inbox/git.md",
-    "Untitled.canvas",
     "00 Inbox/LFS.md",
     "00 Inbox/SAFe.md",
     "00 Inbox/MAN.md",
     "90 Attachements/Pasted image 20260102123317.png",
-    "00 Inbox/Obsidian Community Plugins.md",
     "90 Attachements/Pasted image 20260102121540.png",
-    "00 Inbox/Jenkins.md",
-    "00 Inbox/Dockerfile.md",
     "99 Archives",
     "90 Attachements",
-    "00 Inbox/Untitled.base",
-    "00 Inbox/Untitled.canvas",
-    "00 Inbox/Untitled 1.md",
-    "00 Inbox/How to Properties and Tags.md",
     "20 Projects",
     "30 Areas",
     "80 Back Office/Attachments",
-    "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
-    "80 Back Office/Templates/Daily Dashboard Template.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Learn.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
-    "80 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/Daily/26_01/02",
     "00 Inbox/Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
