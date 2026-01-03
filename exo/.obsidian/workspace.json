@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+                "file": "00 Inbox/Task Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "26-01-03 Daily Notes"
+              "title": "Task Dashboard"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+                "file": "00 Inbox/Task Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 26-01-03 Daily Notes"
+              "title": "Outline of Task Dashboard"
             }
           },
           {
@@ -278,15 +278,15 @@
   },
   "active": "bfcda00623fdc2d8",
   "lastOpenFiles": [
-    "00 Inbox/Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+    "00 Inbox/Tasks Plugin - Review and check your Statuses 2025-12-26 10-47-22.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Fit.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Learn.md",
     "00 Inbox/p4 clone.md",
     "10 Journal/Daily/26_01/03",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-    "00 Inbox/Tasks Dashboard.md",
+    "00 Inbox/Task Dashboard.md",
     "00 Inbox/Termgraph.md",
     "00 Inbox/All Properties Dashboard.md",
     "00 Inbox/Visidata.md",
