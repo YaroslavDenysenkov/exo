@@ -1,3 +1,3 @@
-- [ ] finalize login
+- [x] finalize login ✅ 2026-01-03
 - [ ] how to use
 - [ ] track their reference for good books and articles

@@ -4,6 +4,8 @@
 - [[10 Journal/Daily/26_01/03/26-01-03 Daily Me|Daily Me]]
 
 
+- [ ] switch SAFe from Lux to Harman 📅 2026-01-04
+- [ ] learn Navigate Back / forward key shortcusts
 
 ## Tasks
 ### Overdue
