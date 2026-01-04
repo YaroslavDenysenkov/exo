@@ -251,17 +251,14 @@
             "id": "6f6a4280e16cda64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 320,
-                  "y": -786.5206571830848,
-                  "zoom": -0.8
-                }
+                "file": "00 Inbox/Jenkins.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
+              "icon": "lucide-file",
+              "title": "Jenkins"
             }
           }
         ],
@@ -400,13 +397,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni Map Canvas.canvas",
+                "file": "00 Inbox/Jenkins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uni Map Canvas"
+              "title": "Outline of Jenkins"
             }
           },
           {
@@ -451,11 +448,11 @@
   },
   "active": "6f6a4280e16cda64",
   "lastOpenFiles": [
+    "Uni Map Canvas.canvas",
     "00 Inbox/Untitled.canvas",
     "00 Inbox/Untitled.base",
     "00 Inbox/Untitled.md",
     "00 Inbox/Zig Programming Language.md",
-    "Uni Map Canvas.canvas",
     "00 Inbox/C++ Programming Language.md",
     "00 Inbox/Java Programming Language.md",
     "00 Inbox/Lua Programming Language.md",
