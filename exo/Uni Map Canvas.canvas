@@ -8,7 +8,8 @@
 		{"id":"686f7e020d1dc26d","type":"file","file":"00 Inbox/Kotlin Programming Language.md","x":420,"y":-1200,"width":383,"height":260},
 		{"id":"a8f10a59f0495184","type":"file","file":"00 Inbox/Java Programming Language.md","x":420,"y":-840,"width":383,"height":260},
 		{"id":"dc3e5cb1e6267dad","type":"file","file":"00 Inbox/Zig Programming Language.md","x":420,"y":-480,"width":383,"height":260},
-		{"id":"012acc302a540ba2","type":"file","file":"00 Inbox/Rust Programming Language.md","x":-40,"y":-480,"width":383,"height":260}
+		{"id":"012acc302a540ba2","type":"file","file":"00 Inbox/Rust Programming Language.md","x":-40,"y":-480,"width":383,"height":260},
+		{"id":"43a5f44ced9ba961","x":-520,"y":-480,"width":383,"height":260,"type":"file","file":"00 Inbox/Go Programming Language.md"}
 	],
 	"edges":[]
 }

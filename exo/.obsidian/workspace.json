@@ -251,18 +251,38 @@
             "id": "6f6a4280e16cda64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 Inbox/Jenkins.md",
-                "mode": "source",
-                "source": false
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 320,
+                  "y": -650,
+                  "zoom": -1.3757454681324415
+                }
               },
-              "icon": "lucide-file",
-              "title": "Jenkins"
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
+            }
+          },
+          {
+            "id": "71755b7072f28914",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Uni Map Canvas.canvas",
+                "viewState": {
+                  "x": 320,
+                  "y": -1542.7999999999997,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uni Map Canvas"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -446,9 +466,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f6a4280e16cda64",
+  "active": "71755b7072f28914",
   "lastOpenFiles": [
     "Uni Map Canvas.canvas",
+    "00 Inbox/Go Programming Language.md",
+    "00 Inbox/Jenkins.md",
     "00 Inbox/Untitled.canvas",
     "00 Inbox/Untitled.base",
     "00 Inbox/Untitled.md",
@@ -475,8 +497,6 @@
     "00 Inbox/Visidata.md",
     "00 Inbox/git.md",
     "00 Inbox/LFS.md",
-    "00 Inbox/SAFe.md",
-    "00 Inbox/MAN.md",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "99 Archives",
