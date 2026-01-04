@@ -272,8 +272,8 @@
               "state": {
                 "file": "Uni Map Canvas.canvas",
                 "viewState": {
-                  "x": 320,
-                  "y": -1542.7999999999997,
+                  "x": -331.22346135216526,
+                  "y": -718.6227890060615,
                   "zoom": 0
                 }
               },
@@ -417,13 +417,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Jenkins.md",
+                "file": "Uni Map Canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jenkins"
+              "title": "Outline of Uni Map Canvas"
             }
           },
           {
@@ -468,8 +468,13 @@
   },
   "active": "71755b7072f28914",
   "lastOpenFiles": [
-    "Uni Map Canvas.canvas",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Notes.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Fit.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Me.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Learn.md",
     "00 Inbox/Go Programming Language.md",
+    "10 Journal/Daily/26_01/04",
+    "Uni Map Canvas.canvas",
     "00 Inbox/Jenkins.md",
     "00 Inbox/Untitled.canvas",
     "00 Inbox/Untitled.base",
@@ -494,9 +499,6 @@
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
     "00 Inbox/Termgraph.md",
     "00 Inbox/All Properties Dashboard.md",
-    "00 Inbox/Visidata.md",
-    "00 Inbox/git.md",
-    "00 Inbox/LFS.md",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "99 Archives",
@@ -508,7 +510,6 @@
     "00 Inbox/Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
     "10 Journal/Daily/26_01/01",
-    "10 Journal/Daily/26_01",
     "99 Attachments/Pasted image 20251229114546.png"
   ]
 }
