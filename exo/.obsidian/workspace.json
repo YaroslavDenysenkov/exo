@@ -272,9 +272,9 @@
               "state": {
                 "file": "Uni Map Canvas.canvas",
                 "viewState": {
-                  "x": -331.22346135216526,
-                  "y": -718.6227890060615,
-                  "zoom": 0
+                  "x": -33.024818433859906,
+                  "y": -728.6093159820301,
+                  "zoom": 0.1720250173261867
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -468,13 +468,15 @@
   },
   "active": "71755b7072f28914",
   "lastOpenFiles": [
+    "Uni Map Canvas.canvas",
+    "00 Inbox/QNX Operating System.md",
+    "Uni Map Canvas 1.canvas",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Notes.md",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Fit.md",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Me.md",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Learn.md",
     "00 Inbox/Go Programming Language.md",
     "10 Journal/Daily/26_01/04",
-    "Uni Map Canvas.canvas",
     "00 Inbox/Jenkins.md",
     "00 Inbox/Untitled.canvas",
     "00 Inbox/Untitled.base",
@@ -497,8 +499,6 @@
     "00 Inbox/p4 clone.md",
     "10 Journal/Daily/26_01/03",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-    "00 Inbox/Termgraph.md",
-    "00 Inbox/All Properties Dashboard.md",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "99 Archives",

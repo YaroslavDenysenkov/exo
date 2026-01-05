@@ -1,17 +1,15 @@
 {
 	"nodes":[
 		{"id":"7d688f17ec4640f2","type":"group","x":-580,"y":-1260,"width":1800,"height":1220,"label":"Programming Lnaguages"},
-		{"id":"6fc046464aacc96e","type":"group","x":-580,"y":-2880,"width":1800,"height":1220,"label":"Operating Systems"},
 		{"id":"11999640e571f1e4","type":"file","file":"00 Inbox/Perl Programming Language.md","x":-520,"y":-1200,"width":383,"height":260},
 		{"id":"5fac55ec4fceb60c","type":"file","file":"00 Inbox/C++ Programming Language.md","x":-40,"y":-1200,"width":391,"height":260},
 		{"id":"7f3b358591568b27","type":"file","file":"00 Inbox/Python Programming Language.md","x":-520,"y":-840,"width":383,"height":260},
 		{"id":"dfd9000ef0dc60e5","type":"file","file":"00 Inbox/Lua Programming Language.md","x":-40,"y":-840,"width":383,"height":260},
 		{"id":"686f7e020d1dc26d","type":"file","file":"00 Inbox/Kotlin Programming Language.md","x":420,"y":-1200,"width":383,"height":260},
 		{"id":"a8f10a59f0495184","type":"file","file":"00 Inbox/Java Programming Language.md","x":420,"y":-840,"width":383,"height":260},
-		{"id":"012acc302a540ba2","type":"file","file":"00 Inbox/Rust Programming Language.md","x":-40,"y":-480,"width":383,"height":260},
-		{"id":"43a5f44ced9ba961","type":"file","file":"00 Inbox/Go Programming Language.md","x":-520,"y":-480,"width":383,"height":260},
 		{"id":"dc3e5cb1e6267dad","type":"file","file":"00 Inbox/Zig Programming Language.md","x":420,"y":-480,"width":383,"height":260},
-		{"id":"7caa15612e5e7b7c","x":-520,"y":-2800,"width":383,"height":260,"type":"file","file":"00 Inbox/QNX Operating System.md"}
+		{"id":"012acc302a540ba2","type":"file","file":"00 Inbox/Rust Programming Language.md","x":-40,"y":-480,"width":383,"height":260},
+		{"id":"43a5f44ced9ba961","x":-520,"y":-480,"width":383,"height":260,"type":"file","file":"00 Inbox/Go Programming Language.md"}
 	],
 	"edges":[]
 }
