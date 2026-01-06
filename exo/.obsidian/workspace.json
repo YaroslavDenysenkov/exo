@@ -4,341 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28cd7a5a652b1e87",
+        "id": "d7591b97e1d86fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "64eddf1f99e94532",
+            "id": "9c745970b20e5b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Obsidian Community Plugins.md",
+                "file": "40 Knowledge/10 Books/2024/2024 - Platform Engineering for Architects - by Max Körbächer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Community Plugins"
-            }
-          },
-          {
-            "id": "19920ff0e86f11ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/All Properties Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "All Properties Dashboard"
-            }
-          },
-          {
-            "id": "23a8f9c603f85d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26-01-02 Daily Notes"
-            }
-          },
-          {
-            "id": "03d28e01391356b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26-01-02 Daily Notes"
-            }
-          },
-          {
-            "id": "d9f5cd22b8f053fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26-01-02 Daily Notes"
-            }
-          },
-          {
-            "id": "bfcda00623fdc2d8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "c386199b3d1248f2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "1d1bc82e321200fe",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 223.20000000000002,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "bb5c0670993817f4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 68.5,
-                  "y": -73,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "118b313439429941",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 68.5,
-                  "y": -220,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "2d958948b69c5f25",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 183,
-                  "y": -764.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "6df8c5abb0088a57",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 16,
-                  "y": -640.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "44df9f7ac0b50f22",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 300,
-                  "y": -540,
-                  "zoom": -0.28647813003535416
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "d7b29a8d5d5ac211",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 300,
-                  "y": -540,
-                  "zoom": -0.28647813003535416
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "fb77138dc372fb58",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": 300,
-                  "y": -812.2279423328964,
-                  "zoom": -0.28647813003535416
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
-            }
-          },
-          {
-            "id": "6f6a4280e16cda64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Knowledge/Scrum/Why We Replaced Daily Standups with Written Daily Logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why We Replaced Daily Standups with Written Daily Logs"
-            }
-          },
-          {
-            "id": "990268ca7030a666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80 Back Office/Cosmos for Books.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cosmos for Books"
-            }
-          },
-          {
-            "id": "79a9cbe0c1063bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2017 - Inspired by Marty Cagan, 2nd"
-            }
-          },
-          {
-            "id": "085858ba1b4b6b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2020 - Empowered by Marty Cagan"
-            }
-          },
-          {
-            "id": "63ba4e037a6f1bbc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "40 Knowledge/10 Books/Book Canvas.canvas",
-                "viewState": {
-                  "x": -226,
-                  "y": 59.400000000000006,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Book Canvas"
-            }
-          },
-          {
-            "id": "71755b7072f28914",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Uni Map Canvas.canvas",
-                "viewState": {
-                  "x": -33.024818433859906,
-                  "y": -728.6093159820301,
-                  "zoom": 0.1720250173261867
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Uni Map Canvas"
+              "title": "2024 - Platform Engineering for Architects - by Max Körbächer"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -473,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Knowledge/10 Books/Book Canvas.canvas",
+                "file": "40 Knowledge/10 Books/2024/2024 - Platform Engineering for Architects - by Max Körbächer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Book Canvas"
+              "title": "Outline of 2024 - Platform Engineering for Architects - by Max Körbächer"
             }
           },
           {
@@ -522,10 +205,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63ba4e037a6f1bbc",
+  "active": "9c745970b20e5b7e",
   "lastOpenFiles": [
-    "40 Knowledge/10 Books/Book Canvas.canvas",
+    "40 Knowledge/10 Books/2024/2024 - Platform Engineering - by Camille Fournier.md",
+    "40 Knowledge/10 Books/2024/2024 - Platform Engineering for Architects - by Max Körbächer.md",
+    "40 Knowledge/10 Books/2022/2022 - Version Control with Git by Prem Kumar Ponuthorai, 3rd.md",
+    "40 Knowledge/10 Books/2024/2024 - Mastering Git by Jakub Narębski.md",
+    "40 Knowledge/10 Books/2022",
+    "40 Knowledge/Medium Canvas.canvas",
+    "40 Knowledge/Scrum/Why We Replaced Daily Standups with Written Daily Logs.md",
     "40 Knowledge/10 Books/2025/2025 - Team Topologies by Matthew Skelton, 2nd.md",
+    "40 Knowledge/10 Books/Book Canvas.canvas",
     "40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md",
     "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
     "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
@@ -547,7 +237,6 @@
     "80 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/Daily/26_01/05",
     "00 Inbox/Learn to Listen.md",
-    "40 Knowledge/Scrum/Why We Replaced Daily Standups with Written Daily Logs.md",
     "00 Inbox/Untitled.md",
     "40 Knowledge/Scrum",
     "Uni Map Canvas.canvas",
@@ -557,12 +246,8 @@
     "10 Journal/Daily/26_01/04/26-01-04 Daily Notes.md",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Fit.md",
     "10 Journal/Daily/26_01/04/26-01-04 Daily Me.md",
-    "10 Journal/Daily/26_01/04/26-01-04 Daily Learn.md",
-    "00 Inbox/Go Programming Language.md",
     "10 Journal/Daily/26_01/04",
-    "00 Inbox/Jenkins.md",
     "00 Inbox/Untitled.canvas",
-    "00 Inbox/Untitled.base",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "00 Inbox/Pasted image 20251229132703.png",

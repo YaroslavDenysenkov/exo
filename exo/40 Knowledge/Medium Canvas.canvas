@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"9692d7fdbc8f3ba9","type":"link","url":"https://medium.com/@premchandak_11/why-we-replaced-daily-standups-with-written-daily-logs-0f2a2ee46ab8","x":-1560,"y":-1240,"width":400,"height":400},
+		{"id":"5a7ee7885c55bb59","type":"link","url":"https://medium.com/@Krishnajlathi/agile-failed-us-after-18-months-the-lesson-every-senior-learns-eventually-97a590ac7873","x":-1040,"y":-1240,"width":400,"height":400},
+		{"id":"9eea876b58a531cf","type":"link","url":"https://medium.com/analysts-corner/are-agile-frameworks-really-agile-edf0a7406207","x":-520,"y":-1240,"width":400,"height":400},
+		{"id":"7ba7712e59938bcb","type":"link","url":"https://medium.com/@jickpatel611/beyond-scrum-kanban-5-agile-trends-for-2025-c9507106ff22","x":0,"y":-1240,"width":400,"height":400},
+		{"id":"aa127a67faa252df","type":"link","url":"https://medium.com/@nsagheen/how-agile-has-effectively-ruined-software-development-466eb1ef3cf9","x":-1560,"y":-720,"width":400,"height":400},
+		{"id":"424731c76a4ede98","type":"link","url":"https://medium.com/design-bootcamp/why-safe-is-the-safest-choice-to-fail-with-agile-2d4a6a6e354f","x":-1040,"y":-720,"width":400,"height":400},
+		{"id":"f952ac33069ce8ef","type":"link","url":"https://medium.com/@premchandak_11/agile-is-dead-the-cult-of-scrum-must-die-with-it-8af25f809203","x":-520,"y":-720,"width":400,"height":400},
+		{"id":"89da155b1ec868db","type":"link","url":"https://medium.com/stackademic/nosprints-55ad8bd50f00","x":0,"y":-720,"width":400,"height":400},
+		{"id":"746718ce9c9e7de2","x":-1560,"y":-220,"width":400,"height":400,"type":"link","url":"https://medium.com/the-pragmatic-agilists/dependencies-destroy-agility-and-predictability-b7e610591a5b"}
+	],
+	"edges":[]
+}
