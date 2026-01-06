@@ -276,6 +276,20 @@
             }
           },
           {
+            "id": "79a9cbe0c1063bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024 - Transformed by Marty Cagan"
+            }
+          },
+          {
             "id": "71755b7072f28914",
             "type": "leaf",
             "state": {
@@ -293,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -428,13 +442,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80 Back Office/Cosmos for Books.md",
+                "file": "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cosmos for Books"
+              "title": "Outline of 2024 - Transformed by Marty Cagan"
             }
           },
           {
@@ -479,9 +493,12 @@
   },
   "active": "01bde706ddefb4c5",
   "lastOpenFiles": [
+    "80 Back Office/Cosmos for Books.md",
+    "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
+    "40 Knowledge/10 Books/2024",
+    "40 Knowledge/10 Books/2024.md",
     "40 Knowledge/10 Books/2025",
     "00 Inbox/Book Reviews/Mastering Git ~ Book Review.md",
-    "80 Back Office/Cosmos for Books.md",
     "10 Journal/Daily/26_01/05/26-01-05 Daily Notes.md",
     "40 Knowledge/10 Books",
     "10 Journal/Daily/26_01/05/26-01-05 Daily Me.md",
@@ -512,14 +529,11 @@
     "00 Inbox/Java Programming Language.md",
     "00 Inbox/Lua Programming Language.md",
     "00 Inbox/Perl Programming Language.md",
-    "00 Inbox/Python Programming Language.md",
     "10 Journal/Daily/26_01/03",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "99 Archives",
     "90 Attachements",
-    "20 Projects",
-    "30 Areas",
     "00 Inbox/Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
     "99 Attachments/Pasted image 20251229114546.png"
