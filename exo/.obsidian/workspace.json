@@ -267,12 +267,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/Daily/26_01/05/26-01-05 Daily Notes.md",
+                "file": "80 Back Office/Cosmos for Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-01-05 Daily Notes"
+              "title": "Cosmos for Books"
             }
           },
           {
@@ -428,13 +428,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Journal/Daily/26_01/05/26-01-05 Daily Notes.md",
+                "file": "80 Back Office/Cosmos for Books.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 26-01-05 Daily Notes"
+              "title": "Outline of Cosmos for Books"
             }
           },
           {
@@ -477,13 +477,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "990268ca7030a666",
+  "active": "01bde706ddefb4c5",
   "lastOpenFiles": [
+    "40 Knowledge/10 Books/2025",
+    "00 Inbox/Book Reviews/Mastering Git ~ Book Review.md",
+    "80 Back Office/Cosmos for Books.md",
+    "10 Journal/Daily/26_01/05/26-01-05 Daily Notes.md",
+    "40 Knowledge/10 Books",
     "10 Journal/Daily/26_01/05/26-01-05 Daily Me.md",
     "10 Journal/Daily/26_01/05/26-01-05 Daily Learn.md",
     "10 Journal/Daily/26_01/05/26-01-05 Daily Fit.md",
     "80 Back Office/Templates/Daily Notes Template.md",
-    "10 Journal/Daily/26_01/05/26-01-05 Daily Notes.md",
     "10 Journal/Daily/26_01/05",
     "00 Inbox/Learn to Listen.md",
     "40 Knowledge/Scrum/Why We Replaced Daily Standups with Written Daily Logs.md",
@@ -509,9 +513,6 @@
     "00 Inbox/Lua Programming Language.md",
     "00 Inbox/Perl Programming Language.md",
     "00 Inbox/Python Programming Language.md",
-    "00 Inbox/Kotlin Programming Language.md",
-    "00 Inbox/Rust Programming Language.md",
-    "00 Inbox/Technology Radar.md",
     "10 Journal/Daily/26_01/03",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
@@ -519,7 +520,6 @@
     "90 Attachements",
     "20 Projects",
     "30 Areas",
-    "80 Back Office/Attachments",
     "00 Inbox/Pasted image 20251229132703.png",
     "00 Inbox/Pasted image 20251229114546.png",
     "99 Attachments/Pasted image 20251229114546.png"
