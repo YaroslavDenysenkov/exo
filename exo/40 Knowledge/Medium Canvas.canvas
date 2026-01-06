@@ -8,7 +8,8 @@
 		{"id":"424731c76a4ede98","type":"link","url":"https://medium.com/design-bootcamp/why-safe-is-the-safest-choice-to-fail-with-agile-2d4a6a6e354f","x":-1040,"y":-720,"width":400,"height":400},
 		{"id":"f952ac33069ce8ef","type":"link","url":"https://medium.com/@premchandak_11/agile-is-dead-the-cult-of-scrum-must-die-with-it-8af25f809203","x":-520,"y":-720,"width":400,"height":400},
 		{"id":"89da155b1ec868db","type":"link","url":"https://medium.com/stackademic/nosprints-55ad8bd50f00","x":0,"y":-720,"width":400,"height":400},
-		{"id":"746718ce9c9e7de2","x":-1560,"y":-220,"width":400,"height":400,"type":"link","url":"https://medium.com/the-pragmatic-agilists/dependencies-destroy-agility-and-predictability-b7e610591a5b"}
+		{"id":"746718ce9c9e7de2","type":"link","url":"https://medium.com/the-pragmatic-agilists/dependencies-destroy-agility-and-predictability-b7e610591a5b","x":-1560,"y":-220,"width":400,"height":400},
+		{"id":"078e20ed6a87a631","x":-1040,"y":-220,"width":400,"height":400,"type":"link","url":"https://medium.com/realworld-ai-use-cases/why-agile-development-always-felt-like-a-joke-until-now-41e9c152e74a"}
 	],
 	"edges":[]
 }
