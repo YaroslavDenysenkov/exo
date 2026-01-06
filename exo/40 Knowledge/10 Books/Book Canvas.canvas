@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3dfb9c077f85cac3","type":"file","file":"40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md","x":-260,"y":-300,"width":382,"height":213},
+		{"id":"a34ab1c3cb073312","type":"file","file":"40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md","x":-260,"y":40,"width":391,"height":213},
+		{"id":"e3baa8d00107bd6f","x":-269,"y":420,"width":391,"height":213,"type":"file","file":"40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md"}
+	],
+	"edges":[]
+}
