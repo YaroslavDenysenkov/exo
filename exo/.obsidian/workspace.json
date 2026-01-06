@@ -311,8 +311,8 @@
               "state": {
                 "file": "40 Knowledge/10 Books/Book Canvas.canvas",
                 "viewState": {
-                  "x": -64.5,
-                  "y": 88.10000000000001,
+                  "x": -226,
+                  "y": 59.400000000000006,
                   "zoom": 0
                 }
               },
@@ -524,10 +524,12 @@
   },
   "active": "63ba4e037a6f1bbc",
   "lastOpenFiles": [
-    "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
     "40 Knowledge/10 Books/Book Canvas.canvas",
-    "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
+    "40 Knowledge/10 Books/2025/2025 - Team Topologies by Matthew Skelton, 2nd.md",
     "40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md",
+    "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
+    "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
+    "40 Knowledge/10 Books/2019",
     "00 Inbox/Insight.md",
     "00 Inbox/Untitled 1.md",
     "40 Knowledge/10 Books/2020",
@@ -561,8 +563,6 @@
     "00 Inbox/Jenkins.md",
     "00 Inbox/Untitled.canvas",
     "00 Inbox/Untitled.base",
-    "00 Inbox/Zig Programming Language.md",
-    "10 Journal/Daily/26_01/03",
     "90 Attachements/Pasted image 20260102123317.png",
     "90 Attachements/Pasted image 20260102121540.png",
     "00 Inbox/Pasted image 20251229132703.png",
