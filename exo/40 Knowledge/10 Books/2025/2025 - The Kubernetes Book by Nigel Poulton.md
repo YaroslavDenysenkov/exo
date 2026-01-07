@@ -24,7 +24,9 @@ What’s New in the 2025 Edition?✅ All content & examples updated for the la
 ✅ Native sidecar containers with hands-on examples  
 ✅ Wasm integration—build & deploy WebAssembly apps on Kubernetes  
 ✅ Real-world node failure scenarios to enhance troubleshooting skills  
-✅ Simplified cluster setup for both cloud-based & local environmentsWhy Learn Kubernetes?Kubernetes is the foundation of modern cloud computing, and demand for Kubernetes expertise is at an all-time high. Whether you’re running production workloads in the cloud or experimenting locally, this book equips you with the skills needed to succeed.  
+✅ Simplified cluster setup for both cloud-based & local environments 
+
+Why Learn Kubernetes?Kubernetes is the foundation of modern cloud computing, and demand for Kubernetes expertise is at an all-time high. Whether you’re running production workloads in the cloud or experimenting locally, this book equips you with the skills needed to succeed.  
   
 What You’ll Learn:✔️ Set up Kubernetes clusters (for free!)  
 ✔️ Understand Kubernetes architecture, scheduling, and networking✔️ Master Pods, Deployments, Services, StatefulSets, Ingress, and more  
