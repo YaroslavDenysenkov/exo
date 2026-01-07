@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025 - The Kubernetes Book by Nigel Poulton"
             }
+          },
+          {
+            "id": "48eede6c9cdfb48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Knowledge/10 Books/2025/2025 - The Kubernetes Book by Nigel Poulton.md",
+                "file": "00 Inbox/Untitled 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 - The Kubernetes Book by Nigel Poulton"
+              "title": "Outline of Untitled 2"
             }
           },
           {
@@ -205,10 +220,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c745970b20e5b7e",
+  "active": "48eede6c9cdfb48b",
   "lastOpenFiles": [
-    "40 Knowledge/Medium Canvas.canvas",
+    "90 Attachements/Pasted image 20260107185855.png",
     "40 Knowledge/10 Books/2025/2025 - The Kubernetes Book by Nigel Poulton.md",
+    "00 Inbox/Untitled 2.md",
+    "40 Knowledge/Medium Canvas.canvas",
     "40 Knowledge/10 Books/2024/2024 - Platform Engineering for Architects - by Max Körbächer.md",
     "40 Knowledge/10 Books/2024/2024 - Platform Engineering - by Camille Fournier.md",
     "40 Knowledge/10 Books/2022/2022 - Version Control with Git by Prem Kumar Ponuthorai, 3rd.md",
@@ -244,7 +261,6 @@
     "00 Inbox/Untitled 3.md",
     "00 Inbox/QNX Operating System.md",
     "Uni Map Canvas 1.canvas",
-    "10 Journal/Daily/26_01/04/26-01-04 Daily Notes.md",
     "10 Journal/Daily/26_01/04",
     "00 Inbox/Untitled.canvas",
     "90 Attachements/Pasted image 20260102123317.png",
