@@ -2,8 +2,9 @@
 	"nodes":[
 		{"id":"a34ab1c3cb073312","type":"file","file":"40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md","x":-260,"y":40,"width":391,"height":213},
 		{"id":"e3baa8d00107bd6f","type":"file","file":"40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md","x":-269,"y":420,"width":391,"height":213,"color":"2"},
-		{"id":"d254598f2ce0da4e","x":-500,"y":-540,"width":382,"height":213,"color":"2","type":"file","file":"40 Knowledge/10 Books/2025/2025 - Team Topologies by Matthew Skelton, 2nd.md"},
-		{"id":"3dfb9c077f85cac3","type":"file","file":"40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md","x":-260,"y":-260,"width":382,"height":213}
+		{"id":"d254598f2ce0da4e","type":"file","file":"40 Knowledge/10 Books/2025/2025 - Team Topologies by Matthew Skelton, 2nd.md","x":-500,"y":-540,"width":382,"height":213,"color":"2"},
+		{"id":"3dfb9c077f85cac3","type":"file","file":"40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md","x":-260,"y":-260,"width":382,"height":213},
+		{"id":"d414874b47e6e628","x":-720,"y":-200,"width":382,"height":213,"type":"file","file":"40 Knowledge/10 Books/2024/2024 - The Software Engineer's Guidebook by Gergely Orosz.md"}
 	],
 	"edges":[]
 }
