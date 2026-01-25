@@ -11,35 +11,13 @@
             "id": "9c745970b20e5b7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Knowledge/10 Books/2025/2025 - The Kubernetes Book by Nigel Poulton.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025 - The Kubernetes Book by Nigel Poulton"
-            }
-          },
-          {
-            "id": "48eede6c9cdfb48b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "40 Knowledge/10 Books/Book Canvas.canvas",
-                "viewState": {
-                  "x": -184.5,
-                  "y": 46.5,
-                  "zoom": -1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Book Canvas"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +201,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48eede6c9cdfb48b",
+  "active": "01bde706ddefb4c5",
   "lastOpenFiles": [
+    "40 Knowledge/10 Books/2022/2022 - Version Control with Git by Prem Kumar Ponuthorai, 3rd.md",
+    "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
+    "40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md",
     "40 Knowledge/10 Books/Book Canvas.canvas",
     "40 Knowledge/10 Books/2024/2024 - The Software Engineer's Guidebook by Gergely Orosz.md",
     "00 Inbox/Untitled 2.md",
@@ -233,13 +214,10 @@
     "40 Knowledge/Medium Canvas.canvas",
     "40 Knowledge/10 Books/2024/2024 - Platform Engineering for Architects - by Max Körbächer.md",
     "40 Knowledge/10 Books/2024/2024 - Platform Engineering - by Camille Fournier.md",
-    "40 Knowledge/10 Books/2022/2022 - Version Control with Git by Prem Kumar Ponuthorai, 3rd.md",
     "40 Knowledge/10 Books/2024/2024 - Mastering Git by Jakub Narębski.md",
     "40 Knowledge/10 Books/2022",
     "40 Knowledge/Scrum/Why We Replaced Daily Standups with Written Daily Logs.md",
     "40 Knowledge/10 Books/2025/2025 - Team Topologies by Matthew Skelton, 2nd.md",
-    "40 Knowledge/10 Books/2017/2017 - Inspired by Marty Cagan, 2nd.md",
-    "40 Knowledge/10 Books/2020/2020 - Empowered by Marty Cagan.md",
     "40 Knowledge/10 Books/2024/2024 - Transformed by Marty Cagan.md",
     "40 Knowledge/10 Books/2019",
     "00 Inbox/Insight.md",
